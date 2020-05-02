@@ -1,0 +1,3 @@
+Id: 	Nombre: ronald	Nota: 100
+Id: 	Nombre: daniel	Nota: 89
+Id: 3	Nombre: karla	Nota: 91
